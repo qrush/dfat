@@ -75,6 +75,8 @@ h1 {
   font-size:80px;
   margin-top:15px;
   text-shadow:2px 2px 0 #8F4700;
+  font-weight: normal;
+  line-height: 75px;
 }
 
 h2 { 
