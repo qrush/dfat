@@ -60,8 +60,6 @@ h1, h2, h3, #footer {
 .grid_2 a {
   font-weight: normal;
   display: block;
-  font-size: 16px;
-  color: #000;
   text-decoration: none;
   margin: 2px 10px;
 }
@@ -133,6 +131,26 @@ ul { list-style-type: square; }
 
 #post {
   color: #786030;
+}
+
+#sidebar {
+  color: #786030;
+}
+
+#sidebar a {
+  display: inline;
+  margin: 0;
+}
+
+#sidebar dt {
+  color: #632303;
+  font-weight: bold;
+  font-size: 90%;
+}
+
+#sidebar dd {
+  font-size: 90%;
+  margin-bottom: 10px;
 }
 
 #post h2 {
