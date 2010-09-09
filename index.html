@@ -5,7 +5,14 @@ title: DWARF FORTRESS ADVENTURE TIME
 {% assign first_post = site.posts.first %}
 <div id="post">
   <h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
-  <div id="date">published {{ first_post.date | date_to_string }}</div>
-  {{ first_post.content }}
+  <div class="info">
+    mayor: {{ first_post.author }}
+  </div>
+  <div class="info">
+    population: {{ first_post.population }}
+  </div>
+  <div class="content">
+    {{ first_post.content }}
+  </div>
   <a id="more" href="{{ first_post.url }}#disqus">Comments &raquo;</a>
 </div>

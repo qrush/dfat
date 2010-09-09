@@ -1,15 +1,14 @@
 --- 
 title: balancedshield &#66324; year 1
 layout: post
+author: john
+population: 12
 ---
-
-current population: 12
-
 
 h3. STATUS
 
 
-p=. "!/images/bs-year1-thumb/groundlevel.png!":/images/bs-year1/groundlevel.png
+p=. "!images/bs-year1-thumb/groundlevel.png!":images/bs-year1/groundlevel.png
 ground level
 
 
@@ -19,32 +18,32 @@ Since there's no mountainside to dig into, I've built up walls all around my dow
 
 The doors in the walls are not an ideal solution; they can be locked in case of attack, but thieves can pick the locks. I'd rather make a second, much larger wall (or channel) around a bigger area and have one drawbridge leading into that area.
 
-p=. "!/images/bs-year1-thumb/under1.png!":/images/bs-year1/under1.png
+p=. "!images/bs-year1-thumb/under1.png!":images/bs-year1/under1.png
 level 1, farms
 
 That covers the surface. On the first underground level, I have a large chamber with a few farms. Mostly I grow plump helmets (lolol I showed her my plump helmet) because they're versatile and grow quickly. Also on that level is the barracks for my military (more on that later).
 
-p=. "!/images/bs-year1-thumb/under4.png!":/images/bs-year1/under4.png
+p=. "!images/bs-year1-thumb/under4.png!":images/bs-year1/under4.png
 level 4, storeroom
 
 Down a few more levels is the storeroom. I have a food stockpile, a furniture stockpile, wood stockpile, bars/blocks, finished goods, and valuable stone. You may want to expand some stockpiles, like the furniture one.
 
-p=. "!/images/bs-year1-thumb/under5.png!":/images/bs-year1/under5.png
+p=. "!images/bs-year1-thumb/under5.png!":images/bs-year1/under5.png
 level 5, workshops
 
 The next level down is workshops. So far I have a kitchen, forge, craftdwarf's workshop, still, mechanic's workshop, carpenter's shop, smelter, charcoal furnace, mason, and jewelers. The wood furnace is essential because I have not yet found bituminous coal.
 
-p=. "!/images/bs-year1-thumb/under6.png!":/images/bs-year1/under6.png
+p=. "!images/bs-year1-thumb/under6.png!":images/bs-year1/under6.png
 level 6, mess hall
 
 Below the workshops is a meeting hall/dining room. I threw in a couple statues as well, this seems to help keep my dorfs happy.
 
-p=. "!/images/bs-year1-thumb/under7.png!":/images/bs-year1/under7.png
+p=. "!images/bs-year1-thumb/under7.png!":images/bs-year1/under7.png
 level 7, peasant slums
 
 Under that are the living quarters. I'm going with a basic pattern of 3x2 rooms with just a bed in there; it would be nice to add some cabinets or chests as well. Remember to keep building rooms as immigrants show up or you'll have an Unhappy Urist.
 
-p=. "!/images/bs-year1-thumb/under8.png!":/images/bs-year1/under8.png
+p=. "!images/bs-year1-thumb/under8.png!":images/bs-year1/under8.png
 level 8, noble quarters
 
 Next level down is the (very undeveloped) nobles area. So far I just have an office for the bookkeeper. This is the last developed level, everything else is just experimental mine shafts radiating from the central stairway.

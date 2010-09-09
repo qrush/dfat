@@ -7,6 +7,7 @@
 body {
   font-family: 'Helvetica', 'Arial', sans-serif;
   background: #300000;
+  font-size: 14px;
 }
 
 a:link, a:visited {
@@ -142,10 +143,13 @@ ul { list-style-type: square; }
   margin-bottom: 15px;
 }
 
-#date {
+.info {
   color: #666;
-  margin-bottom: 15px;
   font-size: 12px;
+}
+
+.content {
+  margin-top: 15px;
 }
 
 #footer {

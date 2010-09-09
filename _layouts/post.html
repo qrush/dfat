@@ -5,7 +5,15 @@ layout: default
   <h2><a href="{{ page.url }}">
     {{ page.title }}
   </a></h2>
-  <div id="date">published {{ page.date | date_to_string }}</div>
+  <div class="info">
+    mayor: {{ post.author }}
+  </div>
+  <div class="info">
+    population: {{ post.population }}
+  </div>
+  <div class="content">
+    {{ post.content }}
+  </div>
   {{ content }}
   <hr />
 </div>
