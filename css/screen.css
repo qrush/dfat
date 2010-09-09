@@ -82,11 +82,13 @@ h1 {
 h2 { 
   font-size: 25px; 
   line-height: 22px; 
+  font-family: "legitima-1","legitima-2",serif;
 }
 
 h3 { 
   font-size: 20px; 
   line-height: 22px; 
+  font-family: "legitima-1","legitima-2",serif;
 }
 
 li { margin-bottom: 4px; }
