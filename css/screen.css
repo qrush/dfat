@@ -72,10 +72,9 @@ h1, h2, h3, #footer {
 
 h1 { 
   color:#632303;
-  font:80px serif;
+  font-size:80px;
   margin-top:15px;
   text-shadow:2px 2px 0 #8F4700;
-  font-family: "legitima-1","legitima-2",serif;
 }
 
 h2 { 
