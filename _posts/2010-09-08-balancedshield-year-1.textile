@@ -2,15 +2,13 @@
 title: balancedshield &#66324; year 1
 layout: post
 author: john
-population: 12
+population: 20
 ---
 
 h3. STATUS
 
-
 p=. "!images/bs-year1-thumb/groundlevel.png!":images/bs-year1/groundlevel.png
 ground level
-
 
 So, this dorf fort has its own interesting situation. First and foremost, we're basically situated on a flat, cold, swampy area. The standing water is all saltwater and I have not yet found an underground river. However, using screw pump and a completely constructed cistern, I've been able to get a source of fresh water. There's also a well built over the cistern for good measure. It should be possible to do something similar underground, by draining a murky pool to a lower level and pumping into another cistern; this would prevent the water from freezing in the winter as it does now.
 
