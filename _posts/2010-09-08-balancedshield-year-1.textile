@@ -1,0 +1,76 @@
+--- 
+title: balancedshield &#66324; year 1
+layout: post
+---
+
+current population: 12
+
+
+h3. STATUS
+
+
+p=. "!/images/bs-year1-thumb/groundlevel.png!":/images/bs-year1/groundlevel.png
+ground level
+
+
+So, this dorf fort has its own interesting situation. First and foremost, we're basically situated on a flat, cold, swampy area. The standing water is all saltwater and I have not yet found an underground river. However, using screw pump and a completely constructed cistern, I've been able to get a source of fresh water. There's also a well built over the cistern for good measure. It should be possible to do something similar underground, by draining a murky pool to a lower level and pumping into another cistern; this would prevent the water from freezing in the winter as it does now.
+
+Since there's no mountainside to dig into, I've built up walls all around my down stairways and put hatches over the stairs. The walls have doors, and there's a small channel with a raising bridge to allow merchants in. Also on the surface are a refuse pile and a small graveyard pile.
+
+The doors in the walls are not an ideal solution; they can be locked in case of attack, but thieves can pick the locks. I'd rather make a second, much larger wall (or channel) around a bigger area and have one drawbridge leading into that area.
+
+p=. "!/images/bs-year1-thumb/under1.png!":/images/bs-year1/under1.png
+level 1, farms
+
+That covers the surface. On the first underground level, I have a large chamber with a few farms. Mostly I grow plump helmets (lolol I showed her my plump helmet) because they're versatile and grow quickly. Also on that level is the barracks for my military (more on that later).
+
+p=. "!/images/bs-year1-thumb/under4.png!":/images/bs-year1/under4.png
+level 4, storeroom
+
+Down a few more levels is the storeroom. I have a food stockpile, a furniture stockpile, wood stockpile, bars/blocks, finished goods, and valuable stone. You may want to expand some stockpiles, like the furniture one.
+
+p=. "!/images/bs-year1-thumb/under5.png!":/images/bs-year1/under5.png
+level 5, workshops
+
+The next level down is workshops. So far I have a kitchen, forge, craftdwarf's workshop, still, mechanic's workshop, carpenter's shop, smelter, charcoal furnace, mason, and jewelers. The wood furnace is essential because I have not yet found bituminous coal.
+
+p=. "!/images/bs-year1-thumb/under6.png!":/images/bs-year1/under6.png
+level 6, mess hall
+
+Below the workshops is a meeting hall/dining room. I threw in a couple statues as well, this seems to help keep my dorfs happy.
+
+p=. "!/images/bs-year1-thumb/under7.png!":/images/bs-year1/under7.png
+level 7, peasant slums
+
+Under that are the living quarters. I'm going with a basic pattern of 3x2 rooms with just a bed in there; it would be nice to add some cabinets or chests as well. Remember to keep building rooms as immigrants show up or you'll have an Unhappy Urist.
+
+p=. "!/images/bs-year1-thumb/under8.png!":/images/bs-year1/under8.png
+level 8, noble quarters
+
+Next level down is the (very undeveloped) nobles area. So far I just have an office for the bookkeeper. This is the last developed level, everything else is just experimental mine shafts radiating from the central stairway.
+
+h3. DORFS
+
+Right now I'm only working 2 miners... they're doing well so I just have them mine *only*
+
+The broker, Deler Kanatis, is also a max-level carpenter. I've restricted the carpenter's workshop to him.
+
+The militia so far consists of Mebzuth Imushdoren, the commander, and Dastot Ekastoddom, normally a clothier but also a novice hammerdwarf. Come spring, you should activate them and have them train. They're not training in the winter because there's no water in case they get injured.
+
+Edem Zefonmorul, the expedition leader, is a bit of a jack-of-all-trades. Mostly he seems to chop wood. Don't forget to disable all his labors when the diplomat/liason is here.
+
+In general, the other dwarves are all doing something, not necessarily related to their occupation title since I change labors around a lot. If you run this on Windows, Dwarf Therapist will be an immense help figuring out who is good at what. The guys in brown (farming types) have indeed been doing farming, as have several other guys. Since food is pretty important, I recommend leaving them like that.
+
+h3. THINGS TO DO
+
+It's probably time to start thinking of a small hospital. The wiki should help you figure out what to do there.
+
+When some more immigrants arrive, I recommend turning some especially useless ones (like fisherdwarfs) into militia. At this point, I think wrestling, archery, or blunt weapons are the best choices, so we don't have to dick around with practice swords and such.
+
+If you want a project that'll keep the dorfs busy a long time and use up plenty of stone, build a biiiiig wall around the site. Remember to leave a small open spot, put a channel there and a drawbridge over that--the inner wall is a good model. This big wall would let us get as much wood as we need (unless elves start whining) while keeping out invaders. Alternately, put lots and lots of traps (I recommend weapon traps, maybe some cage traps as well) around the entrances.
+
+Right now, I'm digging around hoping to find an underground river because then we get underground trees *and* a source of water. The strategy I'm using is to dig lots of cross-map shafts every two levels. You can see an example on level -10; next, I'll go down to -12 and do the same. You can skip a level because you'll find "damp rock" on the levels above and below a river.
+
+Maybe look into a way of providing drinkable water underground. I'm not quite sure based on what I see online, it's *possible* that simply using a well may purify saltwater so dorfs can drink. In that case, it should be relatively easy to get some water available underground, but be careful not to flood the place and cause Fun! When I fiddle with water, I always make sure to put a door in the corridor, that way if it starts flooding my dorf will run away and I can lock the door.
+
+Go full hog here, since we've got version control we can just back up and try again if something gets screwed.
